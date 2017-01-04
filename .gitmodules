@@ -1,3 +1,6 @@
 [submodule "arondor-connectors"]
 	path = arondor-connectors
 	url = https://github.com/arondor-connectors/arondor-connectors.git
+[submodule "axa-connectors"]
+	path = axa-connectors
+	url = https://github.com/arondor-connectors/axa-connectors.git
