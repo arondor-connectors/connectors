@@ -1,0 +1,3 @@
+[submodule "arondor-connectors"]
+	path = arondor-connectors
+	url = https://github.com/arondor-connectors/arondor-connectors.git
